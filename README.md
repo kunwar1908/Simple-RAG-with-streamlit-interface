@@ -10,3 +10,5 @@ Available Examples
 More examples will be added soon, so stay tuned!
 
 > Note: This repository is not intended for production use. It is designed to be as simple as possible to help newcomers understand the concepts of working with LLMs application.
+
+![Screenshot 2024-09-22 200517](https://github.com/user-attachments/assets/0e83ff6a-fbcd-4b50-97bd-25abf85a81de)
