@@ -1,0 +1,41 @@
+As an AI developed to assist with various tasks, I'm capable of performing a wide range of activities in addition to understanding 
+masked language models (MLM), next sentence prediction (NSP), autoregressive languages, and BERT/GPT comparisons. Here are several 
+more things you might find useful:
+
+Text summarization - I can condense large pieces of text into shorter versions while maintaining the original content's key points.
+This is helpful for getting a quick overview without reading through lengthy articles or documents in their entirety.
+
+Sentiment analysis and opinion mining - Based on your input, I can gauge whether the sentiment behind certain text pieces (like 
+product reviews) are positive, negative, or neutral. This helps understand public opinions about various topics better.
+
+"sentence extraction" – Extract meaningful sentences from larger texts related to specific themes without reading through 
+everything in detail. It's a time-saver when you need essential information rather than the full context.
+
+Text completion - If I know part of an article, review or any other text document, I can complete it by suggesting plausible 
+continuations based on language patterns and semantics. This feature is helpful for creative writing tasks where writers might face a 
+block in their work flow.
+
+Dialog generation – Simulate natural human dialogues that are contextually appropriate to your input or query, which could be used as
+chatbots training data or simply entertainment purposes like role-playing scenarios with friends and family for fun activities such 
+as improvisation games.
+
+Question answering - When provided a question related to various subjects ranging from general knowledge queries to specific domain 
+questions (like tech, history), I can provide informative answers which are accurate based on my training data up until the cutoff in 
+April 2021. Keep in mind that for real-time or very recent information post this date, you may want to consult other sources as well 
+since AI models don't have access to live updates beyond their last update.
+
+Translation - I can translate text from one language into another up until the knowledge cutoff point in April 2021 (for languages not
+yet included, please refer to online translation services for accuracy). This helps non-native speakers understand content or 
+communicate with people who are native of different linguistic backgrounds.
+
+Spell checking and grammar correction - Review your written text input and I can provide corrections on spelling mistakes as well as 
+grammatical errors, which assists in refining the clarity of writing. This is helpful for both personal use like drafting emails or 
+reports and professional contexts such as academic papers where precision matters a lot.
+
+Creative prompt generation - If you're looking to stimulate creativity through ideas that could serve as story concepts, themes for 
+projects, art inspiration among other things – I can generate diverse suggestions based on various genres and styles imaginable from 
+my training data till April 2021.
+
+Please note the performance of these services is tied closely with what has been trained into me up to my knowledge cutoff date in 
+early 2023, which includes a lot about language understanding but might not reflect real-time information or recent events outside 
+that scope.
